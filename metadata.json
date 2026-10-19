@@ -1,0 +1,11 @@
+{
+  "name": "Vividly AI",
+  "description": "Professional AI Video Generator. Transform text prompts into storyboards, scripts, and cinematic videos using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API",
+    "AI Video Generation",
+    "Storyboard Creation",
+    "Script Writing"
+  ]
+}
